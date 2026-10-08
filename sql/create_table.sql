@@ -1,5 +1,5 @@
 CREATE EXTERNAL TABLE `employee_attrition`(
-  `employee_id` int, 
+  `employee_id` int PRIMARY KEY, 
   `age` int, 
   `gender` string, 
   `marital_status` string, 
