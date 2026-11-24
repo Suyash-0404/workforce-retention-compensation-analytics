@@ -6,10 +6,10 @@ The project demonstrates the complete workflow from raw employee data ingestion 
 
 ---
 
-## 🔗 Live Dashboard
+## 🔗Live Dashboard
 
 **Looker Studio Dashboard:**  
-[👉 VIEW INTERACTIVE DASHBOARD](https://datastudio.google.com/reporting/eacec7cf-d5d1-4f0a-9dae-c4ecf70afc59)
+[ VIEW INTERACTIVE DASHBOARD](https://datastudio.google.com/reporting/eacec7cf-d5d1-4f0a-9dae-c4ecf70afc59)
 
 > The dashboard contains two interactive pages with filters for department, job role, overtime, gender, and other workforce segments.
 
@@ -21,7 +21,7 @@ The project demonstrates the complete workflow from raw employee data ingestion 
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Layer | Technology |
 |---|---|
@@ -35,7 +35,7 @@ The project demonstrates the complete workflow from raw employee data ingestion 
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses an employee attrition dataset containing:
 
@@ -53,7 +53,7 @@ The project uses an employee attrition dataset containing:
 - Employee attrition
 
 
-# 🔄 Data Pipeline
+# Data Pipeline
 
 ## 1. CSV Dataset
 
@@ -162,7 +162,7 @@ Interactive dropdown filters allow users to explore the dashboard by relevant wo
 
 ---
 
-# 🎯 Business Questions
+# Business Questions
 
 The dashboard was designed around practical HR and workforce analytics questions:
 
@@ -179,7 +179,7 @@ The dashboard was designed around practical HR and workforce analytics questions
 
 ---
 
-# 📈 Key Metrics
+# Key Metrics
 
 The dataset contains:
 
@@ -195,7 +195,7 @@ These figures are calculated from the processed analytical dataset.
 
 ---
 
-# 🔍 Key Analytical Areas
+# Key Analytical Areas
 
 ### Attrition
 
@@ -219,7 +219,7 @@ Promotion-gap analysis is used to investigate whether extended periods without p
 
 ---
 
-# 🧹 Data Quality Approach
+# Data Quality Approach
 
 A key design decision in this project was to **preserve potentially inconsistent source records rather than overwrite or 'correct' them!**.
 
@@ -240,7 +240,7 @@ It also prevents assumptions from being introduced into the original dataset wit
 
 ---
 
-# 📁 Project Files
+# Project Files
 
 The repository contains the main project assets:
 
@@ -254,7 +254,7 @@ The repository contains the main project assets:
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 ### Cloud & Data Engineering
 - Amazon S3
@@ -284,7 +284,7 @@ The repository contains the main project assets:
 
 ---
 
-# 💡 Business Value
+# Business Value
 
 This project demonstrates how raw employee data can be transformed into a structured analytics pipeline and ultimately into an interactive decision-support dashboard.
 
@@ -300,7 +300,7 @@ The dashboard is intended as an analytical decision-support tool rather than a p
 
 ---
 
-# 📌 Project Highlights
+# Project Highlights
 
 - Built an end-to-end **AWS → BI analytics pipeline**
 - Processed **10,000 employee records**
@@ -315,7 +315,7 @@ The dashboard is intended as an analytical decision-support tool rather than a p
 ---
 
 
-## 📜 Disclaimer
+## Disclaimer
 
 This project is intended for educational, portfolio, and analytical demonstration purposes.
 
